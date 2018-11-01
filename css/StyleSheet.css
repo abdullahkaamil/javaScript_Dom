@@ -1,0 +1,28 @@
+
+#PlaceHolder{
+    margin: auto;
+    width:90%;
+}
+
+table{
+    width: 100%;
+}
+
+td{
+    width: 160px;
+}
+
+input[type="text"],input{
+    background-color:#F8F8F8;
+    border-radius: 6px;
+    margin: 5px;
+    width: 95%;
+}
+
+input[type="button"]{
+    background-color:#F8F8F8;
+    border-radius: 6px;
+    margin-left: 8px;
+    margin-right: 0px;
+    width: 80px;
+}
